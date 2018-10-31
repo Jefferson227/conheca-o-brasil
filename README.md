@@ -11,7 +11,7 @@ Uma lista colaborativa de locais para se conhecer no Brasil
 
 ## Como contribuir
 
-Crie uma pasta com o UF do estado e um JSON com o nome da cidade (caso ainda não exista), no json da cidade indique o caminho da imagem, título e pequena decrição do local.
+Crie uma pasta com o UF do estado e um JSON com o nome da cidade (caso ainda não exista), no JSON da cidade indique o caminho da imagem, título e pequena descrição do local.
 
 Mais detalhes [aqui](/CONTRIBUTING.md)
 
@@ -34,5 +34,5 @@ Exemplo: (adicionar ao final do arquivo `src/assets/data/locals.json`)
 - [Fork este repositório](https://help.github.com/articles/fork-a-repo/)
 - Clone o repositório forcado, da sua conta
 - Adicione a sua contribuição no respectivo arquivo de estado/cidade
-- Commit suas alterações com uma menasgem apropriada, exemplo: `Adicionado <nome do local> em <cidade>, <uf>`
+- Commit suas alterações com uma mensagem apropriada, exemplo: `Adicionado <nome do local> em <cidade>, <uf>`
 - [Crie o seu pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) e aguarde nossa validação :)
